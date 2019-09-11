@@ -1,5 +1,5 @@
-branch: test
-checksum: 9de880bc68f8fff799b03247a4ab3d01d5b880429a2b56273284c64ca78c01f0
+branch: master
+checksum: c3d10d830c28e2071be59dde1469885da813485ea5c69c85ceda0fdba1fc64e3
 execute: nothing-at-all
 language: python3
 max_per_day: 3
