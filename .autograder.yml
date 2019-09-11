@@ -1,0 +1,6 @@
+branch: test
+checksum: 9de880bc68f8fff799b03247a4ab3d01d5b880429a2b56273284c64ca78c01f0
+execute: nothing-at-all
+language: python3
+max_per_day: 3
+version: 3
