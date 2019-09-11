@@ -1,6 +1,6 @@
 branch: master
-checksum: c3d10d830c28e2071be59dde1469885da813485ea5c69c85ceda0fdba1fc64e3
-execute: nothing-at-all
+checksum: 0924a24194d6e8b93add5dc64dfe55c6cafb838ee0fc22709eb3d993cda2a422
 language: python3
 max_per_day: 3
+testset: w1
 version: 3
