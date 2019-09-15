@@ -1,6 +1,10 @@
-branch: master
-checksum: 0924a24194d6e8b93add5dc64dfe55c6cafb838ee0fc22709eb3d993cda2a422
+branch: mastrer
+checksum: 1235b008a49d08307176f1ca8966cdd3ac92d1da026967e09f9df218b647f6b2
+default: true
 language: python3
 max_per_day: 3
-testset: w1
+python:
+  importable: true
+  scriptify: true
+testset: wk1
 version: 3
