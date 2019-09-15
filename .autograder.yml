@@ -1,5 +1,5 @@
-branch: mastrer
-checksum: 1235b008a49d08307176f1ca8966cdd3ac92d1da026967e09f9df218b647f6b2
+branch: master
+checksum: b6755a8c7270715645b6bd7b164e7964aab57b6b0260f2a240e238418fcda407
 default: true
 language: python3
 max_per_day: 3
